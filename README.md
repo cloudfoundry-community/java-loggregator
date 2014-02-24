@@ -3,7 +3,7 @@ Java Loggregator
 
 A Loggregator client that runs on the Java platform.
 
-To emit event to Loggregator in your project, add the following to your Maven pom.xml:
+To emit logging events to Loggregator, add the following to your Maven pom.xml:
 
 ```xml
 <dependency>
